@@ -1,8 +1,10 @@
 # Embed Generator
 
+> If you want to use this Website for your own, contact me on Discord: Joy#4065
+
 > Web-based preview for Discord Embeds with code generation
 
-[Click here to open](https://thecodingjoy.github.io/)
+[Click here to open](https://thecodingjoy.github.io/embed-generator/)
 
 This tool can help you get a grip on Discord Embeds (a topic some people are struggling with), it provides a simple ui to construct a message you want, as well as a realtime preview.
 
