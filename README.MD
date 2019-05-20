@@ -1,6 +1,6 @@
 # Embed Generator
 
-> If you want to use this Website for your own, contact me on Discord: Joy#4065
+> If you want to use this Website for your own, contact me on Discord: TheCodingJoy#4065
 
 > Web-based preview for Discord Embeds with code generation
 
